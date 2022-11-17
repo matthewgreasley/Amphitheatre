@@ -16,7 +16,7 @@ function draw() {
   // put drawing code here
   background(0)
   stroke(255)
-  //noFill()
+  noFill()
 
   translate(width / 2, height / 2)
 
